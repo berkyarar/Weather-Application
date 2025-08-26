@@ -9,7 +9,7 @@ window.title("Weather Forecast")
 window.config(background="pink")
 window.config(padx=10, pady=10)
 
-api_key = "c0c2210aca0ea8ae0211b1feff3d4eb1"
+api_key = "######################"
 
 city_value = tkinter.StringVar()
 
