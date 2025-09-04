@@ -22,7 +22,7 @@ description, wind speed, and sunrise/sunset times.
 ---
 
 ## 🛠️ Tech Stack
- 
+  
 - Python
 - Tkinter (GUI)
 - Requests (HTTP requests to OpenWeatherMap API)
