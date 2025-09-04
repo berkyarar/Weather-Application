@@ -62,7 +62,8 @@ city_label.pack()
 city_entry = tkinter.Entry(width=30, textvariable=city_value)
 city_entry.pack()
 
-result_button = tkinter.Button(text="Weather Results", command=show_weather, background="#D3C6CD",foreground="black",font=("arial",10,"bold"))
+result_button = tkinter.Button(text="Weather Results", command=show_weather, background="#D3C6CD", foreground="black",
+                               font=("arial", 10, "bold"))
 result_button.config(padx=10, pady=10)
 result_button.place(x=125, y=90)
 
